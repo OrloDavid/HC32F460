@@ -1,0 +1,2 @@
+# HC32F460
+HC32F460 ARM Cortex-M4 Device Family Packs HDSC HUADA /  XHSC XIAOHUA
