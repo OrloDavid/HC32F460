@@ -4,7 +4,7 @@
     <vendor>HDSC</vendor>
     <name>HC32F460</name>
     <description>HC32F460 ARM Cortex-M4 Device Family Pack</description>
-    <url>https://github.com/OrloDavid/HC32F460/blob/main/</url>
+    <url>https://raw.githubusercontent.com/OrloDavid/HC32F460/main/</url>
     <supportContact>mcu_eco@xhsc.com.cn</supportContact>
     <!-- optional license file -->
     <!--
