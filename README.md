@@ -1,5 +1,5 @@
-# **HC32F460** 
-## **HC32F460 ARM Cortex-M4 Device Family Packs HDSC HUADA /  XHSC XIAOHUA** 
+# **HDSC HUADA / XHSC XIAOHUA HC32F460 HC32F46x HC32F460x** 
+## **HC32F460 ARM Cortex-M4 Device Family Packs** 
 + IDE support package for the HC32F460 Series
 + Fixes errors when trying to determine dates and check for pack updates within uVision
 + Primary chip of note is the HC32F460KCTA-LQFP64
