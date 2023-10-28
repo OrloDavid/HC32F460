@@ -19,3 +19,14 @@
 + HC32F460KCTA-LQFP64
 + HC32F460PCTB-LQFP100
 + ### https://www.xhsc.com.cn/Productlist/info.aspx?itemid=1849 **through 1857**
+
+# **This repositiory was created to help support the Anycubic Kobra Go / Kobra Neo Mainboards**
+- Additional repositories For the Go / Neo can be found at the following links
+- **Firmware repository**
+- https://github.com/OrloDavid/Any-Ko-Go
+
+
++ **Mainboard Support Repository Coming Soon**
++ **Mainboard Support Repository Coming Soon**
+
+
