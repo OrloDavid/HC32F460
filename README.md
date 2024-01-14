@@ -21,8 +21,23 @@
 + ### https://www.xhsc.com.cn/Productlist/info.aspx?itemid=1849 **through 1857**
 
 # **This repositiory was created to help support the Anycubic Kobra Go / Kobra Neo Mainboards and resolve repository errors within the Arm µVision Keil software**
-- Additional repositories For the Go / Neo can be found at the following links
-- **Firmware repository**
-- [https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware](https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware)
+- Additional repositories, files, mods and piectures For the Go / Neo can be found at the following links
+
+- - **Firmware Repository for Kobra Go / Neo**
+  - [Kobra Go / Neo Marlin Firmware](https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware)
+
+- **Everything Else 3D Printing Related by David Orlo**
+  - [Orlo 3D Printer Stuff on GitHub](https://github.com/OrloDavid/Orlo_3D_Printer_Stuff)
+
+- **David Orlo's Reddit Account (For Instructions/Guides)**
+  - [Azyn_One on Reddit](https://www.reddit.com/user/Azyn_One/submitted/)
+
+- **David Orlo's YouTube Channel**
+  - [David Orlo on YouTube](https://www.youtube.com/@DavidMiOo)
+
+- **David Orlo's 3D Files on Tinkercad, Thingiverse, and Printables**
+  - [Tinkercad (Login Required)](https://www.tinkercad.com/users/0RxhGZwzXXM-david-m-orlo)
+  - [Thingiverse Designs](https://www.thingiverse.com/a_makers_life/designs)
+  - [Printables Profile](https://www.printables.com/@DavidmOrlo_1689053)
 
 
