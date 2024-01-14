@@ -20,7 +20,7 @@
 + HC32F460PCTB-LQFP100
 + ### https://www.xhsc.com.cn/Productlist/info.aspx?itemid=1849 **through 1857**
 
-# **This repositiory was created to help support the Anycubic Kobra Go / Kobra Neo Mainboards**
+# **This repositiory was created to help support the Anycubic Kobra Go / Kobra Neo Mainboards and resolve repository errors within the Arm µVision Keil software**
 - Additional repositories For the Go / Neo can be found at the following links
 - **Firmware repository**
 - [https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware](https://github.com/OrloDavid/Kobra_Go_Neo_Marlin_Firmware)
